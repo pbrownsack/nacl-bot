@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/pbrownsack/nacl-bot#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "date-and-time": "^0.6.3",
     "discord.js": "^11.4.2"
   }
 }
